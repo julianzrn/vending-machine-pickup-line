@@ -7,8 +7,8 @@ from pathlib import Path
 
 OUTPUT_PATH = Path("/output/entry.txt")
 
-OPENING = "You must be B4, "
-LANDING = "because ever since you walked up, I've wanted to drop everything for you."
+OPENING = "You must be B4, because ever since you walked up, "
+LANDING = "I've wanted to drop everything for you."
 
 ENTRY = OPENING + LANDING
 
